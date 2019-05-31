@@ -1,1 +1,4 @@
+url: "mathplusprototypes.github.io"
+theme_settings:
+  header_text: Hello World to my blog.
 theme: jekyll-theme-slate
